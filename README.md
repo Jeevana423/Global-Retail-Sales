@@ -1,23 +1,9 @@
 # 🌍📊 Global Retail Sales Dashboard
 
-<p align="center">
-
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge\&logo=powerbi)
-![Data Analysis](https://img.shields.io/badge/Domain-Data%20Analytics-blue?style=for-the-badge)
-![Visualization](https://img.shields.io/badge/Visualization-Dashboard-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
-
-</p>
-
----
-
 ## 📸 Dashboard Preview
 
-<p align="center">
-  <img src="images/dashboard.png" width="900">
-</p>
+![Dashboard Preview](images/dashboard.png)
 
----
 
 ## 📌 Project Overview
 
