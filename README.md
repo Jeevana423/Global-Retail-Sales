@@ -11,71 +11,61 @@
 
 ---
 
-# 📌 Project Overview
-
-This project presents an **interactive Power BI dashboard** that analyzes **global retail sales performance**.
-
-The dashboard helps businesses understand:
-
-✔ Sales trends
-✔ Regional performance
-✔ Customer segments
-✔ Product performance
-✔ Profitability insights
-
-It provides **data-driven insights through interactive visualizations and dynamic filters**.
-
----
-
-# 🖼 Dashboard Preview
+## 📸 Dashboard Preview
 
 <p align="center">
-<img src="dashboard.png" width="900">
+  <img src="images/dashboard.png" width="900">
 </p>
 
 ---
 
-# 🎯 Business Objectives
+## 📌 Project Overview
 
-🔹 Analyze **overall sales and profit performance**
-🔹 Identify **top-performing products**
-🔹 Understand **regional sales distribution**
-🔹 Evaluate **customer segment contribution**
-🔹 Monitor **monthly sales trends**
-🔹 Compare **actual sales vs target**
+An **interactive Power BI dashboard** analyzing **global retail sales performance**.
 
----
+### 🔍 Business Focus
 
-# 📊 Key Performance Indicators (KPIs)
-
-| 📌 Metric            | 📈 Value   |
-| -------------------- | ---------- |
-| 💰 **Total Sales**   | **9.48M**  |
-| 📈 **Total Profit**  | **1.09M**  |
-| 📊 **Profit Margin** | **11.50%** |
-| 🔁 **Return Rate**   | **4.69%**  |
-
-These KPIs provide a **quick overview of business performance**.
+* Sales trends
+* Regional performance
+* Customer segmentation
+* Product performance
+* Profitability insights
 
 ---
 
-# 📈 Dashboard Insights
+## 🎯 Business Objectives
 
-## 📅 Monthly Sales Trend
-
-A **line chart** visualizing sales performance across months.
-
-🔍 Insights:
-
-* Sales peak during **November–December**
-* Lower sales during **early months**
-* Indicates **seasonal demand patterns**
+* Analyze overall **sales & profit performance**
+* Identify **top-performing products**
+* Understand **regional distribution**
+* Evaluate **customer segments**
+* Track **monthly trends**
+* Compare **actual vs target sales**
 
 ---
 
-## 🌎 Sales by Region
+## 📊 Key Performance Indicators (KPIs)
 
-Bar chart comparing regional sales performance.
+| Metric        | Value  |
+| ------------- | ------ |
+| Total Sales   | 9.48M  |
+| Total Profit  | 1.09M  |
+| Profit Margin | 11.50% |
+| Return Rate   | 4.69%  |
+
+---
+
+## 📈 Dashboard Insights
+
+### 📅 Monthly Sales Trend
+
+* Peak sales in **Nov–Dec**
+* Lower performance in early months
+* Indicates **seasonality**
+
+---
+
+### 🌎 Sales by Region
 
 | Region         | Sales |
 | -------------- | ----- |
@@ -86,27 +76,23 @@ Bar chart comparing regional sales performance.
 | Southeast Asia | 0.7M  |
 | North Asia     | 0.6M  |
 
-🏆 **Central region performs the best**
+🏆 **Central region leads**
 
 ---
 
-## 👥 Segment Contribution
+### 👥 Segment Contribution
 
-Customer segments contributing to total revenue:
+| Segment     | Contribution |
+| ----------- | ------------ |
+| Consumer    | 51.62%       |
+| Corporate   | 30.27%       |
+| Home Office | 18.11%       |
 
-| Segment        | Contribution |
-| -------------- | ------------ |
-| 🧑‍💼 Consumer | 51.62%       |
-| 🏢 Corporate   | 30.27%       |
-| 🏠 Home Office | 18.11%       |
-
-✔ **Consumer segment drives majority of revenue**
+✔ Consumer dominates revenue
 
 ---
 
-## 📦 Top 10 Products by Sales
-
-Top selling products include:
+### 📦 Top Products
 
 * Apple Smartphones
 * Cisco Smartphones
@@ -114,59 +100,51 @@ Top selling products include:
 * Nokia Smartphones
 * HP Executive Series
 
-This analysis helps identify **high demand products**.
-
 ---
 
-## 🎯 Sales vs Target
-
-Gauge chart comparing **actual sales vs target**
+### 🎯 Sales vs Target
 
 | Metric       | Value |
 | ------------ | ----- |
 | Actual Sales | 9.48M |
 | Target       | 10M   |
 
-📊 Sales are **very close to reaching the target**.
+📊 Near target achievement
 
 ---
 
-# 🎛 Interactive Filters
+## 🎛 Filters (Interactivity)
 
-The dashboard includes slicers for:
-
-🔹 **Region**
-🔹 **Segment**
-🔹 **Category**
-🔹 **Order Year**
-
-These filters allow users to **analyze data dynamically**.
+* Region
+* Segment
+* Category
+* Order Year
 
 ---
 
-# 🛠 Tools & Technologies
+## 🛠 Tech Stack
 
-| Tool             | Purpose            |
-| ---------------- | ------------------ |
-| 🟡 Power BI      | Data Visualization |
-| 🔄 Power Query   | Data Cleaning      |
-| 📊 DAX           | Calculations       |
-| 🗂 Data Modeling | Relationships      |
+| Tool          | Purpose       |
+| ------------- | ------------- |
+| Power BI      | Visualization |
+| Power Query   | Data Cleaning |
+| DAX           | Calculations  |
+| Data Modeling | Relationships |
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```
-Global-Retail-Sales-Dashboard
+Global-Retail-Sales-Dashboard/
 │
-├── dataset
+├── dataset/
 │   └── retail_sales_data.xlsx
 │
-├── dashboard
+├── dashboard/
 │   └── global_retail_sales.pbix
 │
-├── images
+├── images/
 │   └── dashboard.png
 │
 └── README.md
@@ -174,37 +152,35 @@ Global-Retail-Sales-Dashboard
 
 ---
 
-# 📊 Key Insights
+## 📊 Key Insights
 
-✔ Consumer segment generates **over 50% of revenue**
-✔ Central region has **highest sales performance**
-✔ Sales show **seasonal patterns**
-✔ A few products drive **major revenue**
-
----
-
-# 🚀 Future Improvements
-
-🔹 Sales forecasting
-🔹 Customer lifetime value analysis
-🔹 Advanced DAX measures
-🔹 Drill-through analytics
+* Consumer segment contributes **50%+ revenue**
+* Central region performs best
+* Strong **seasonal trends**
+* Few products drive majority sales
 
 ---
 
-# 👩‍💻 Author
+## 🚀 Future Improvements
+
+* Sales forecasting
+* Customer lifetime value
+* Advanced DAX
+* Drill-through analytics
+
+---
+
+## 👩‍💻 Author
 
 **Jeevana**
+Aspiring Data Analyst
 
-Aspiring **Data Analyst**
-
-Skills:
-
-* Power BI
-* Python
-* Data Visualization
-* Data Analysis
+**Skills:**
+Power BI | Python | Data Analysis | Visualization
 
 ---
 
-If you want, I can also create a **🔥 “Top 1% Data Analyst Portfolio README” style** that **looks like a professional GitHub portfolio and impresses recruiters.**
+## ⭐ Support
+
+If you like this project:
+👉 Star the repo ⭐
